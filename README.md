@@ -19,8 +19,9 @@ Molix 是一家专注于分子人工智能的技术团队，致力于将 AI 技�
 
 **核心价值：** 通过 AI 预测替代部分早期实验筛选，帮助客户缩短研发周期、降低试错成本，让研发资源更聚焦于高潜力分子。
 
-<img src="assets/Bricks.png" alt="Molix" width="100%">
-
+<div align="center">
+<img src="assets/Bricks.png" alt="Molix" width="60%">
+</div>
 
 <br>
 
