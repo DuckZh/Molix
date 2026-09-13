@@ -4,14 +4,15 @@
 
 </div>
 
-# 关于我们
+
+## 关于我们
 Molix 是一家专注于分子人工智能的团队。
 
 我们用 AI 技术，帮助药物、材料和化学研发团队
 在**合成之前**就能预测分子性质、生成候选分子、筛选最优方案。
 
 
-# 核心能力
+## 核心能力
 
 ### 🧠 模型训练
 
@@ -89,15 +90,11 @@ Molix 是一家专注于分子人工智能的团队。
 
 <div align="center">
 
-**扫描微信，添加 Molix 团队**
-
 <img src="assets/wechat_qr.png" alt="微信二维码" width="220">
-
+**扫描微信，添加 Molix 团队**
 
 *首次咨询 · 免费评估您的数据可行性*
 
-
-💻 [github.com/DuckZh/Molix](https://github.com/DuckZh/Molix)
 
 </div>
 
