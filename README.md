@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="assets/Banner2.png" alt="Molix" width="350">
-
-# Molix
-
-**分子 AI 定制服务**
+<img src="assets/Banner2.png" alt="Molix" width="800">
 
 </div>
 
-
+# 关于我们
 Molix 是一家专注于分子人工智能的团队。
 
 我们用 AI 技术，帮助药物、材料和化学研发团队
 在**合成之前**就能预测分子性质、生成候选分子、筛选最优方案。
 
 
-## 核心能力
+# 核心能力
 
 ### 🧠 模型训练
 
@@ -60,7 +56,6 @@ Molix 是一家专注于分子人工智能的团队。
 
 </div>
 
----
 
 ### ADMET 预测报告
 
@@ -74,7 +69,6 @@ Molix 是一家专注于分子人工智能的团队。
 
 </div>
 
----
 
 ## 为什么选择 Molix
 
@@ -90,7 +84,6 @@ Molix 是一家专注于分子人工智能的团队。
 **🧪 实验对接**
 不止于 AI 预测，还能对接合作实验室，从"计算"到"验证"闭环完成。
 
----
 
 ## 联系我们
 
@@ -104,7 +97,6 @@ Molix 是一家专注于分子人工智能的团队。
 
 *首次咨询 · 免费评估您的数据可行性*
 
----
 
 💻 [github.com/DuckZh/Molix](https://github.com/DuckZh/Molix)
 
