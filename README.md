@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner2.png" alt="Molix" width="100%">
+<img src="assets/Banner_双语.png" alt="Molix" width="100%">
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🧠-blue)
 ![AIDD](https://img.shields.io/badge/AIDD-AI%20Drug%20Discovery-green)
