@@ -2,15 +2,22 @@
 
 <img src="assets/Banner2.png" alt="Molix" width="100%">
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🧠-blue)
+![AIDD](https://img.shields.io/badge/AIDD-AI%20Drug%20Discovery-green)
+![Molecular Generation](https://img.shields.io/badge/Molecular%20Generation-⚗️-purple)
+![ADMET](https://img.shields.io/badge/ADMET-Prediction-orange)
+
+[中文](README.md) · [English](README_EN.md)
+
 </div>
 
 
 ## 关于我们
 Molix 是一家专注于分子人工智能的团队。
 
-我们用 AI 技术，帮助药物、材料和化学研发团队
-在**合成之前**就能预测分子性质、生成候选分子、筛选最优方案。
+我们用 AI 技术，帮助药物、材料和化学研发团队在**合成之前**就能预测分子性质、生成候选分子、筛选最优方案。
 
+<br>
 
 ## 核心能力
 
@@ -91,6 +98,7 @@ Molix 是一家专注于分子人工智能的团队。
 <div align="center">
 
 <img src="assets/wechat_qr.png" alt="微信二维码" width="220">
+
 **扫描微信，添加 Molix 团队**
 
 *首次咨询 · 免费评估您的数据可行性*
