@@ -95,19 +95,14 @@ Molix 是一家专注于分子人工智能的团队。
 
 ## 联系我们
 
-<div align="center">
+- 📱 **微信**：扫描下方二维码添加 Molix 团队
+- 📧 **邮箱**：[contact@molix.com](mailto:contact@molix.com)
+- 💬 **WhatsApp**：[+86 123 4567 8901](https://wa.me/8612345678901)
+- 💚 **LINE**：[molix_team](https://line.me/ti/p/~molix_team)
 
-<img src="assets/wechat_qr.png" alt="微信二维码" width="220">
-
-**扫描微信，添加 Molix 团队**
+<img src="assets/wechat_qr.png" alt="微信二维码" width="330">
 
 *首次咨询 · 免费评估您的数据可行性*
 
-
-</div>
-
----
-
-<div align="center">
 <sub>© 2026 Molix · All rights reserved</sub>
 </div>
