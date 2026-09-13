@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Molix Logo" width="200">
+<img src="assets/logo.jpg" alt="Molix Logo" width="120">
 
 # Molix
 
