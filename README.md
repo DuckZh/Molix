@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner2.png" alt="Molix" width="800">
+<img src="assets/Banner2.png" alt="Molix" width="100%">
 
 </div>
 
@@ -89,11 +89,10 @@ Molix 是一家专注于分子人工智能的团队。
 
 <div align="center">
 
-### 想了解更多？欢迎交流
+**扫描微信，添加 Molix 团队**
 
 <img src="assets/wechat_qr.png" alt="微信二维码" width="220">
 
-**扫描微信，添加 Molix 团队**
 
 *首次咨询 · 免费评估您的数据可行性*
 
