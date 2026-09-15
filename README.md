@@ -106,9 +106,9 @@ Molix 是一家专注于分子人工智能的技术团队，致力于将 AI 技�
 
 ## 联系我们
 
-- 📧 **邮箱**：[Molix.AITeam@gmail.com](mailto:Molix.AITeam@gmail.com)
+- 📧 **邮箱**：[Molix.AITeam@gmail.com](mailto:Molix.AITeam@outlook.com)
 - 💬 **WhatsApp**：[+86 15999510273](https://wa.me/8615999510273)
-- 💚 **LINE**：[molix_team](https://line.me/ti/p/~molix_team)
+- 💚 **LINE**：[Molix_team]
 - 📱 **微信**：扫描下方二维码添加 Molix 团队
 
 <img src="assets/wechat_qr.png" alt="微信二维码" width="330">
