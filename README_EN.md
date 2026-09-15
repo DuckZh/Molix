@@ -52,8 +52,6 @@ Provide ADMET property prediction and optimization suggestions, supporting devel
 
 - **Toxicity (T)**: hERG cardiotoxicity, Ames mutagenicity, hepatotoxicity
 
-<br>
-
 ## Results Showcase
 
 ### Molecular Generation
