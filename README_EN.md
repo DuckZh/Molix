@@ -94,8 +94,6 @@ Model performance can be continuously optimized based on client feedback and dat
 **🧪 Experimental Integration**
 We can connect with partner laboratories to help clients complete the process from prediction to validation.
 
-<br>
-
 ## Contact Us
 
 - 📧 **Email**: [Molix.AITeam@gmail.com](mailto:Molix.AITeam@outlook.com)
