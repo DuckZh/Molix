@@ -62,11 +62,9 @@ Molix 是一家专注于分子人工智能的技术团队，致力于将 AI 技�
 
 <div align="center">
 
-<img src="assets/generated_molecules_1.png" width="45%">
-<img src="assets/generated_molecules_2.png" width="45%">
+<img src="assets/page_01.png" width="45%">
+<img src="assets/page_02.png" width="45%">
 
-<img src="assets/generated_molecules_3.png" width="45%">
-<img src="assets/generated_molecules_4.png" width="45%">
 
 *（以上为 Molix 生成的部分候选分子示例）*
 
